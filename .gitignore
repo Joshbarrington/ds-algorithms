@@ -85,7 +85,7 @@ local.properties
 hs_err_pid*
 
 ### OSX ###
-*.DS_Store
+.DS_Store
 .AppleDouble
 .LSOverride
 
